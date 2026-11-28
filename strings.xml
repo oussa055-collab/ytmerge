@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cosmos</string>
+    <string name="all">All</string>
+    <string name="update">Update</string>
+    <string name="language">Language</string>
+    <string name="download">Download</string>
+    <string name="official_page">Official page</string>
+    <string name="up_to_date">Nothing new right now</string>
+    <string name="error_network">Could not reach the sources. Check your connection.</string>
+    <string name="n_new_images">%d new images</string>
+    <string name="download_started">Download started</string>
+    <string name="notif_channel">New images</string>
+    <string name="back">Back</string>
+    <string name="setup_title">Hourly updates</string>
+    <string name="setup_body">To receive new images in the background, allow notifications and, on Xiaomi phones, enable Autostart and set battery saver to \"No restrictions\" for this app.</string>
+    <string name="setup_open">Open settings</string>
+    <string name="setup_later">Later</string>
+    <string name="live">Live</string>
+    <string name="live_title">Live cameras</string>
+    <string name="refreshed_at">Refreshed at %s</string>
+    <string name="cam_vlt">VLT – Paranal, Chile</string>
+    <string name="cam_vlt_desc">Panorama of the Very Large Telescope platform, updated regularly by ESO.</string>
+    <string name="cam_night">Paranal night sky</string>
+    <string name="cam_night_desc">Fisheye view of the night sky. Only live at night.</string>
+    <string name="cam_alma">ALMA – Chajnantor, 5,000 m</string>
+    <string name="cam_alma_desc">Antennas on the Chajnantor plateau, Atacama Desert.</string>
+    <string name="cam_lasilla">La Silla night camera</string>
+    <string name="cam_lasilla_desc">All-sky camera at La Silla Observatory.</string>
+    <string name="cam_elt">ELT construction site</string>
+    <string name="cam_elt_desc">Cerro Armazones, home of the future Extremely Large Telescope.</string>
+    <string name="cam_dome">ELT dome (inside)</string>
+    <string name="cam_dome_desc">View from the top of the dome under construction.</string>
+    <string name="live_credits">Webcam images: ESO. La Silla all-sky camera: Astronomical Institute of the Czech Academy of Sciences. These are views of the sites and the sky, not what the telescopes are recording.</string>
+</resources>
